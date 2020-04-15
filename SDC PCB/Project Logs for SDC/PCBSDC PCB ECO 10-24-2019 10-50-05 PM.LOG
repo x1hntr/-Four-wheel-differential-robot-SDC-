@@ -1,0 +1,12 @@
+Added Component: Designator=DIG(1x16x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=AIN11 Pin=DIG-1
+Added Pin To Net: NetName=AIN12 Pin=DIG-2
+Added Pin To Net: NetName=AIN21 Pin=DIG-3
+Added Pin To Net: NetName=AIN22 Pin=DIG-4
+Added Pin To Net: NetName=BIN11 Pin=DIG-5
+Added Pin To Net: NetName=BIN12 Pin=DIG-6
+Added Pin To Net: NetName=BIN21 Pin=DIG-7
+Added Pin To Net: NetName=BIN22 Pin=DIG-8
+Added Member To Class: ClassName=placasdc Member=Component DIG Connector
+Added Room: Name=placasdc

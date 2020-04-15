@@ -1,0 +1,10 @@
+Added Component: Designator=CONN?(1x6x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=DATA Pin=CONN?-1
+Added Pin To Net: NetName=COMMAND Pin=CONN?-2
+Added Pin To Net: NetName=GND Pin=CONN?-3
+Added Pin To Net: NetName=3.3v Pin=CONN?-4
+Added Pin To Net: NetName=ATTENTION Pin=CONN?-5
+Added Pin To Net: NetName=CLOCK Pin=CONN?-6
+Added Member To Class: ClassName=placasdc Member=Component CONN? Connector
+Added Room: Name=placasdc

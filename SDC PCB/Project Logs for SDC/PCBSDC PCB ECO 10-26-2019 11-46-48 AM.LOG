@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=BIN11 Pin=DIG-5
+Removed Pin From Net: NetName=BIN12 Pin=DIG-6
+Removed Pin From Net: NetName=BIN21 Pin=DIG-7
+Removed Pin From Net: NetName=BIN22 Pin=DIG-8
+Added Pin To Net: NetName=BIN22 Pin=DIG-5
+Added Pin To Net: NetName=BIN21 Pin=DIG-6
+Added Pin To Net: NetName=BIN12 Pin=DIG-7
+Added Pin To Net: NetName=BIN11 Pin=DIG-8
+Added Room: Name=placasdc

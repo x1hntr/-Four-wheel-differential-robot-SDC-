@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=LED6 Pin=PWMARDUINO2-4
+Added Pin To Net: NetName=CLOCK Pin=PWMARDUINO2-5
+Added Pin To Net: NetName=COMMAND Pin=PWMARDUINO2-6
+Added Pin To Net: NetName=DATA Pin=PWMARDUINO2-7

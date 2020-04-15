@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=LED3 Pin=LED1-1
+Removed Pin From Net: NetName=LED4 Pin=LED2-1
+Removed Pin From Net: NetName=GND Pin=R1-1
+Removed Pin From Net: NetName=GND Pin=R2-1
+Removed Member From Class: ClassName=placasdc Member=LED1
+Removed Member From Class: ClassName=placasdc Member=LED2
+Removed Member From Class: ClassName=placasdc Member=R1
+Removed Member From Class: ClassName=placasdc Member=R2
+Added Component: Designator=LED3(LED_0603_Yellow)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "Yellow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.com/led/datasheet/150060YS75000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Christin Otto"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "June 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W?th Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNo"; Value = "150060YS75000"; VariantName = "[No Variations]"
+Added Component: Designator=LED4(LED_0603_Yellow)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "Yellow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.com/led/datasheet/150060YS75000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Christin Otto"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "June 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W?th Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNo"; Value = "150060YS75000"; VariantName = "[No Variations]"
+Added Component: Designator=R3(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LED5 Pin=LED3-1
+Added Pin To Net: NetName=NetLED3_2 Pin=LED3-2
+Added Pin To Net: NetName=LED6 Pin=LED4-1
+Added Pin To Net: NetName=NetLED4_2 Pin=LED4-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=NetLED3_2 Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=NetLED4_2 Pin=R4-2
+Added Member To Class: ClassName=placasdc Member=Component LED3 150060YS75000
+Added Member To Class: ClassName=placasdc Member=Component LED4 150060YS75000
+Added Member To Class: ClassName=placasdc Member=Component R3 Res3
+Added Member To Class: ClassName=placasdc Member=Component R4 Res3
+Added Room: Name=placasdc

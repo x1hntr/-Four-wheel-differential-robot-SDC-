@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=LED5 Pin=PWMARDUINO2-1
+Removed Pin From Net: NetName=DATA Pin=PWMARDUINO2-2
+Removed Pin From Net: NetName=COMMAND Pin=PWMARDUINO2-3
+Removed Pin From Net: NetName=LED6 Pin=PWMARDUINO2-5
+Added Pin To Net: NetName=LED6 Pin=PWMARDUINO2-3
+Added Pin To Net: NetName=COMMAND Pin=PWMARDUINO2-5
+Added Pin To Net: NetName=DATA Pin=PWMARDUINO2-6
+Added Pin To Net: NetName=LED5 Pin=PWMARDUINO2-7
+Added Room: Name=placasdc

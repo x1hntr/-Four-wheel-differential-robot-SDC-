@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=5v Pin=GYRO-1
+Removed Pin From Net: NetName=5v Pin=POWER-3
+Added Component: Designator=SERVO1(1x3x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SERVO2(1x3x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=5v Pin=POWER-6
+Added Pin To Net: NetName=5v Pin=RVOUT?-1
+Added Pin To Net: NetName=SERVO1 Pin=SERVO1-1
+Added Pin To Net: NetName=5v Pin=SERVO1-2
+Added Pin To Net: NetName=GND Pin=SERVO1-3
+Added Pin To Net: NetName=SERVO2 Pin=SERVO2-1
+Added Pin To Net: NetName=5v Pin=SERVO2-2
+Added Pin To Net: NetName=GND Pin=SERVO2-3
+Change Net Name : Old Net Name=5v New Net Name=VCC
+Added Pin To Net: NetName=5V Pin=GYRO-1
+Added Pin To Net: NetName=5V Pin=POWER-3
+Added Net: Name=5V
+Added Member To Class: ClassName=placasdc Member=Component SERVO1 Connector
+Added Member To Class: ClassName=placasdc Member=Component SERVO2 Connector
+Added Room: Name=placasdc

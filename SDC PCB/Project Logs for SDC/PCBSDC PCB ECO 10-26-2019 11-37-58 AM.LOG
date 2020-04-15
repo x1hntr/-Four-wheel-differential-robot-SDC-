@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=VCC Pin=D1-3
+Removed Pin From Net: NetName=VCC Pin=D2-3
+Added Component: Designator=DIP3(691311700002)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6913117000xx.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "6 January 2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "691311700002"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=DIP3-1
+Added Pin To Net: NetName=VCCD Pin=D1-3
+Added Pin To Net: NetName=VCCD Pin=D2-3
+Added Pin To Net: NetName=VCCD Pin=DIP3-2
+Added Net: Name=VCCD
+Added Member To Class: ClassName=placasdc Member=Component DIP3 WE-Terminal Blocks Plugable Type 691311700002
+Added Room: Name=placasdc

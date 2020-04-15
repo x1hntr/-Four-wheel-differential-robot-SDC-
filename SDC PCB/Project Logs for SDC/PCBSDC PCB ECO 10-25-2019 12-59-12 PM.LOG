@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=PWMA1 Pin=PWMARDUINOS-1
+Removed Pin From Net: NetName=PWMA2 Pin=PWMARDUINOS-2
+Removed Pin From Net: NetName=PWMB1 Pin=PWMARDUINOS-3
+Removed Pin From Net: NetName=PWMB2 Pin=PWMARDUINOS-4
+Removed Pin From Net: NetName=LED3 Pin=PWMARDUINOS-5
+Removed Pin From Net: NetName=LED4 Pin=PWMARDUINOS-6
+Removed Pin From Net: NetName=LED5 Pin=PWMARDUINOS-7
+Removed Pin From Net: NetName=LED6 Pin=PWMARDUINOS-8
+Added Pin To Net: NetName=LED5 Pin=PWMARDUINO2-1
+Added Pin To Net: NetName=LED6 Pin=PWMARDUINO2-5
+Added Pin To Net: NetName=GND Pin=PWMARDUINOS-2
+Added Pin To Net: NetName=LED4 Pin=PWMARDUINOS-3
+Added Pin To Net: NetName=LED3 Pin=PWMARDUINOS-4
+Added Pin To Net: NetName=PWMA1 Pin=PWMARDUINOS-5
+Added Pin To Net: NetName=PWMA2 Pin=PWMARDUINOS-6
+Added Pin To Net: NetName=PWMB1 Pin=PWMARDUINOS-7
+Added Pin To Net: NetName=PWMB2 Pin=PWMARDUINOS-8
+Added Room: Name=placasdc

@@ -1,0 +1,22 @@
+Removed Member From Class: ClassName=placasdc Member=C?
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Added Component: Designator=C2(691311700003)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6913117000xx.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "6 January 2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "691311700003"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VL Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=VCC Pin=C1-3
+Added Pin To Net: NetName=VL Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=VCC Pin=C2-3
+Added Member To Class: ClassName=placasdc Member=Component C1 C Pol
+Added Member To Class: ClassName=placasdc Member=Component C2 Cap
+Added Room: Name=placasdc

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=PWMB1 Pin=PWMARDUINOS-7
+Removed Pin From Net: NetName=PWMB2 Pin=PWMARDUINOS-8
+Added Pin To Net: NetName=PWMB2 Pin=PWMARDUINOS-7
+Added Pin To Net: NetName=PWMB1 Pin=PWMARDUINOS-8
+Added Member To Class: ClassName=placasdc Member=Component DIP2 WE-Terminal Blocks Plugable Type 691311700002
+Added Member To Class: ClassName=placasdc Member=Component DIP3 WE-Terminal Blocks Plugable Type 691311700002
+Added Room: Name=placasdc

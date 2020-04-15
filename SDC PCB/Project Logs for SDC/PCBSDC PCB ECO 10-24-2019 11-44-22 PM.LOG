@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=VL Pin=D1-1
+Removed Pin From Net: NetName=VL Pin=D2-1
+Removed Pin From Net: NetName=VL Pin=L1-1
+Added Component: Designator=DIP1(691311700002)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6913117000xx.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "6 January 2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "691311700002"; VariantName = "[No Variations]"
+Added Component: Designator=DIP2(691311700002)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6913117000xx.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "6 January 2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "691311700002"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VL Pin=DIP1-2
+Added Pin To Net: NetName=VDIP Pin=DIP1-1
+Added Pin To Net: NetName=VDIP Pin=DIP2-1
+Added Pin To Net: NetName=VDIP Pin=L1-1
+Added Net: Name=VDIP
+Added Pin To Net: NetName=VDRIVER Pin=D1-1
+Added Pin To Net: NetName=VDRIVER Pin=D2-1
+Added Pin To Net: NetName=VDRIVER Pin=DIP2-2
+Added Net: Name=VDRIVER
+Added Member To Class: ClassName=placasdc Member=Component DIP1 WE-Terminal Blocks Plugable Type 691311700002
+Added Member To Class: ClassName=placasdc Member=Component DIP2 WE-Terminal Blocks Plugable Type 691311700002
+Added Room: Name=placasdc

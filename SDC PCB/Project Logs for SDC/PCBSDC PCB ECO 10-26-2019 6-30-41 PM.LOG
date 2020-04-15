@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=PWMA1 Pin=PWMARDUINOS-5
+Removed Pin From Net: NetName=PWMA2 Pin=PWMARDUINOS-6
+Removed Pin From Net: NetName=PWMB2 Pin=PWMARDUINOS-7
+Removed Pin From Net: NetName=PWMB1 Pin=PWMARDUINOS-8
+Added Pin To Net: NetName=PWMB1 Pin=PWMARDUINOS-5
+Added Pin To Net: NetName=PWMB2 Pin=PWMARDUINOS-6
+Added Pin To Net: NetName=PWMA2 Pin=PWMARDUINOS-7
+Added Pin To Net: NetName=PWMA1 Pin=PWMARDUINOS-8
+Added Room: Name=placasdc

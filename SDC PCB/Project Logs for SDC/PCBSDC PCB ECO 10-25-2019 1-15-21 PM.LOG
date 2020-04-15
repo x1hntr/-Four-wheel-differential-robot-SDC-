@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=LED6 Pin=PWMARDUINO2-3
+Removed Pin From Net: NetName=CLOCK Pin=PWMARDUINO2-4
+Removed Pin From Net: NetName=COMMAND Pin=PWMARDUINO2-5
+Removed Pin From Net: NetName=DATA Pin=PWMARDUINO2-6
+Removed Pin From Net: NetName=LED5 Pin=PWMARDUINO2-7
+Change Component Footprint: Designator=PWMARDUINO2 Old Footprint=1x7x2.54 Pin Header TH V New Footprint=1x8x2.54 Pin Header TH V
+Added Room: Name=placasdc

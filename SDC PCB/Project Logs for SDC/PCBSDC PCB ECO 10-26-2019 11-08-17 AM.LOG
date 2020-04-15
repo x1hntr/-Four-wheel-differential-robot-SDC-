@@ -1,0 +1,9 @@
+Added Component: Designator=BLUE?(1x4x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=RX Pin=BLUE?-1
+Added Pin To Net: NetName=TX Pin=BLUE?-2
+Added Pin To Net: NetName=GND Pin=BLUE?-3
+Added Pin To Net: NetName=VCC5V Pin=BLUE?-4
+Added Net: Name=VCC5V
+Added Member To Class: ClassName=placasdc Member=Component BLUE? Connector
+Added Room: Name=placasdc

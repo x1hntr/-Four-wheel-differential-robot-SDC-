@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=LED3 Pin=PWMARDUINOS-5
+Added Pin To Net: NetName=LED4 Pin=PWMARDUINOS-6
+Added Pin To Net: NetName=LED5 Pin=PWMARDUINOS-7
+Added Pin To Net: NetName=LED6 Pin=PWMARDUINOS-8
+Added Room: Name=placasdc
